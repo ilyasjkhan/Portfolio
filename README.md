@@ -68,5 +68,5 @@ Call Centre Operations Dataset (Kaggle)
 
   ## Dashboard Preview
 
-![Call Centre Dashboard](images/call-centre-dashboard.png)
+![Call Centre Dashboard](image/call-centre-dashboard.png)
 
