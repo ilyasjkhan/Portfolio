@@ -34,7 +34,7 @@ UK STATS19 Road Safety Data
 
   ## Dashboard Preview
 
-![Road Safety Dashboard](images/road-safety-dashboard.png)
+![Road Safety Dashboard](image/road-safety-dashboard.png)
 
 ---
 
