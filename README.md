@@ -32,6 +32,10 @@ UK STATS19 Road Safety Data
 * Rural accidents were less frequent but generally more severe than urban accidents
 * Higher speed limits were associated with increased accident severity
 
+  ## Dashboard Preview
+
+![Road Safety Dashboard](images/road-safety-dashboard.png)
+
 ---
 
 # Call Centre Operational Analysis & Performance Dashboard
@@ -61,4 +65,8 @@ Call Centre Operations Dataset (Kaggle)
 * Higher call volumes correlated with reduced service levels, suggesting operational capacity constraints during peak periods
 * Recent operational periods demonstrated improved service performance and reduced abandonment rates
 * Findings suggested that optimising staffing during peak demand could significantly improve operational outcomes
+
+  ## Dashboard Preview
+
+![Call Centre Dashboard](images/call-centre-dashboard.png)
 
